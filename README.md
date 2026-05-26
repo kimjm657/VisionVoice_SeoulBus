@@ -1,4 +1,4 @@
-# TransitSync Seoul - GitHub Pages PWA
+# VisionVoice_Seoul - GitHub Pages PWA
 
 이 폴더의 파일들을 GitHub Repository 루트에 그대로 업로드하면 됩니다.
 
